@@ -6,6 +6,13 @@
     Um projeto bem simples de Machine Learning, que classifica as temperaturas, de acordo com parâmetros predefinidos.
     E a definição ocorreu através de dados disponíveis em: <a href="https://pycourse.s3.amazonaws.com/temperature.csv">Baixar arquivo CSV</a>
   </p>
+  <p align="justify">
+    O projeto foi testado no Windows 11, para executar código é necessário ter o Python 3.x e algumas dependências.
+    Para fazer a instalação execute no terminal do repositório o comando:
+  <ul>
+    <li>pip install -r requirements.txt</li?
+  </ul>
+  </p>
 </div>
 
 <div>
@@ -27,12 +34,15 @@
 <div>
   <h3>Tecnologias utilizadas</h3>
   <ul>
-    <li>Python</li>
-    <ul>
-      <li>NumPy</li>
-      <li>Pandas</li>
-      <li>scikit-learn</li>
-    </ul>
+    <li>
+      <a href="https://numpy.org/">NumPy</a>
+    </li>
+    <li>
+      <a href="https://pandas.pydata.org/">Pandas</a>
+    </li>
+    <li>
+      <a href="https://scikit-learn.org/stable/">scikit-learn</a>
+    </li>
   </ul>
 </div>
 
