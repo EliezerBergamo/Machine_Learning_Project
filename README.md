@@ -9,11 +9,12 @@
   <p align="justify">
     O projeto foi testado no Windows 11, para executar código é necessário ter o Python 3.x e algumas dependências.
     Para fazer a instalação execute no terminal do repositório o comando:
-  <ul>
-    <li>pip install -r requirements.txt</li?
-  </ul>
   </p>
 </div>
+
+  ```
+  pip install -r requirements.txt
+  ```
 
 <div>
   <h3>Funcionalidades</h3>
